@@ -2,8 +2,8 @@
 
 ## Installation
 1. clone repo.
-2. open database/db.ts(denodb.ts for lib deno_db) change <MONGO_URL> to connect your own mongo db.
-3. run 、deno run --allow-net --allow-write --allow-read --allow-plugin --unstable index.ts、
+2. open database/db.ts(denodb.ts for lib **deno_db**) change <<font color=#008000>MONGO_URL</font>> to connect your own mongo db.
+3. run ```deno run --allow-net --allow-write --allow-read --allow-plugin --unstable index.ts```
 
 ## Uasge
 access the following endpoint on <http://localhost:7000>
